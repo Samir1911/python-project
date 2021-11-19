@@ -10,7 +10,7 @@ if(i!=0):
 
 
 if(n==n[::-1]):
-	print("It is Palindrome")
+	print("It is Pali")
 else:
 	print("Not a Palindrome")
 
